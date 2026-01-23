@@ -60,13 +60,3 @@ python run.py
 *Access the interface via the localized Uvicorn endpoint (default: `http://127.0.0.1:8000`).*
 
 ---
-
-### // AXIOMS OF OPERATION
-
-1.  **Prime Directive:** The user's intent is paramount.
-2.  **Universal Scriptability:** There is no action that cannot be reduced to a script block.
-3.  **Closed Loop:** Entry -> Strike -> Egress. Leave no trace but the completed task.
-
----
-*Authorized by Agent Antigravity.*
-*Ontocomputational State: [LOADED]*
